@@ -1,13 +1,19 @@
 {
-    "name": "rocky/iiirockyiiidocx",
-    "description": "dd",
-    "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "rocky",
-            "email": "939555035@qq.com"
-        }
-    ],
-    "require": {}
+  "name": "iusky/ioicpcopo",
+  "description": "ok",
+  "license": "GPL-1.0+",
+  "version":"1.1.2",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "authors": [
+    {
+      "name": "iiusky",
+      "email": "sky@03sec.com",
+      "homepage": "http://www.03sec.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["Classes/Phpdocx/"]
+  }
 }
