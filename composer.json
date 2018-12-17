@@ -13,6 +13,7 @@
       "homepage": "http://91xx.org"
     }
   ],
+
   "autoload": {
     "classmap": ["Classes/Phpdocx/"]
   }
