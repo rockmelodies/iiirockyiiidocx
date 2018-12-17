@@ -1,0 +1,13 @@
+{
+    "name": "rocky/iiirockyiiidocx",
+    "description": "dd",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rocky",
+            "email": "939555035@qq.com"
+        }
+    ],
+    "require": {}
+}
