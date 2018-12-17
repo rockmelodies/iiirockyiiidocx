@@ -1,16 +1,16 @@
 {
-  "name": "iusky/ioicpcopo",
+  "name": "rockmelodies/iiirockyiiidocx",
   "description": "ok",
   "license": "GPL-1.0+",
-  "version":"1.1.2",
+  "version":"1.1.0",
   "require": {
     "php": ">=5.5.9"
   },
   "authors": [
     {
-      "name": "iiusky",
-      "email": "sky@03sec.com",
-      "homepage": "http://www.03sec.com"
+      "name": "rockmelodies",
+      "email": "939555035@qq.com",
+      "homepage": "http://91xx.org"
     }
   ],
   "autoload": {
