@@ -2,7 +2,7 @@
   "name": "rockmelodies/iiirockyiiidocx",
   "description": "ok",
   "license": "GPL-1.0+",
-  "version":"1.1.0",
+  "version":"1.1.2",
   "require": {
     "php": ">=5.5.9"
   },
@@ -16,5 +16,3 @@
 
   "autoload": {
     "classmap": ["Classes/Phpdocx/"]
-  }
-}
